@@ -1,5 +1,5 @@
 package Threesum;
-//fizzbuzz write a java program that prints the numbers from 1 to 100. for multiples of three, p
+// fizzbuzz write a java program that prints the numbers from 1 to 100. for multiples of three, print "fizz" instead of the number and for multiples of five, print "buzz". for numbers which are multiples of both three and five, print "fizzbuzz".
 import java.util.Scanner;
 
 public class puzzle {
